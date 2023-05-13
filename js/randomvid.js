@@ -6,10 +6,10 @@ let video = new Array();
 
 //higher
 video.push({
-    video_id: 'H8HDs_-Y0oY',
-    video_name: "mud",
-    id: 'H8HDs_-Y0oY' + videoSettings + 'start=0',
-    note: 'Destroy Lonely',
+    video_id: 'VZZl5F-u03Q',
+    video_name: "destroy lonely - bane (sped up + reverb)",
+    id: 'VZZl5F-u03Q' + videoSettings + 'start=0',
+    note: '',
     volume: 35,
 });
 let randVid = songId && songId >= 0 && songId < video.length ? songId : Math.floor(video.length * Math.random());
